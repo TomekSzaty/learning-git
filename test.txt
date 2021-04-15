@@ -1,3 +1,7 @@
 Moja tresc
 dodaje napis
 kolejna zmioana
+
+Dodanie tresci do nowej gałęzi
+
+
